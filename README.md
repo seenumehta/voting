@@ -10,6 +10,8 @@ The **Election Voting** smart contract is a blockchain-based voting system built
 - **Tamper-Proof Results**: Vote counts are immutable and publicly verifiable.
 - **Decentralized & Transparent**: No central authority can alter votes once cast.
 
+**Developed by Anoop**
+
 ## Smart Contract Functions
 ### 1. `addCandidate(string memory _name)`
 Allows the election commission to register candidates.
